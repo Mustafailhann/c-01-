@@ -20,7 +20,7 @@ void	ft_swap(int *ptr1, int *ptr2)
 	*ptr2 = c;
 }
 
-int	main(void)
+/*int	main(void)
 {
 	int	x;
 	int	y;
@@ -29,4 +29,4 @@ int	main(void)
 	y = 32;
 	ft_swap (&x, &y);
 	printf("x : %d y : %d", x, y);
-}
+}*/

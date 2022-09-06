@@ -9,6 +9,7 @@
 /*   Updated: 2022/09/03 18:16:51 by muilhan          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+#include <stdio.h>
 
 int	ft_strlen(char *str)
 {
@@ -24,3 +25,8 @@ int	ft_strlen(char *str)
 	}
 	return (length);
 }
+/*int        main(void)
+{
+    char    str[] = "musti";
+    printf("lenght: %d\t", ft_strlen(str));
+}*/

@@ -17,7 +17,7 @@ void	ft_ft(int *nbr)
 	*nbr = 42;
 }
 
-int	main(void)
+/*int	main(void)
 {
 	int	a;
 	int	*ptr;
@@ -27,4 +27,4 @@ int	main(void)
 	printf("ilk degeri %d dir\n", a);
 	ft_ft(ptr);
 	printf("son degeri  %d dir",*ptr);
-}
+}*/

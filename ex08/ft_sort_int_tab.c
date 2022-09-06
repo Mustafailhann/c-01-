@@ -38,7 +38,8 @@ int	main(void)
 {
 	int	array[] = {1, 9, 3, 7, 5, 4};
 	ft_sort_int_tab(array, 6);
-w
+    int a;
+
 	a = 0;
 	while (a < 6)
 	{

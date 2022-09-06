@@ -33,6 +33,6 @@ void	ft_putstr(char *str)
 /*int	main(void)
 {
 	char test[] = "musti";
-	ft_putstri(test);
+	ft_putstr(test);
 
 }*/
